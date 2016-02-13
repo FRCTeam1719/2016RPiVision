@@ -1,0 +1,8 @@
+testconf
+*.log
+*.log.*
+devel/
+.bash*
+.profile
+.vim/
+.viminfo
